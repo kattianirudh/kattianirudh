@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 <h2>Hey! 👋</h2>
 
-I'm Anirudh Katti 
+I'm **Anirudh Katti **
 - <i>Currently:</i> MS CS Student at University of Texas at Arlington. 
 
 - <i>Previously:</i> Software Engineer at Granicus.
 
-  <b> Actively looking for Summer 2022 Software Internship opportunities in USA </b>
+  <b> Actively looking for Summer 2022 Software Internship opportunities </b>
 
   
 
