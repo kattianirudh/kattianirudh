@@ -22,17 +22,16 @@ I'm Anirudh Katti
 
 - <i>Previously:</i> Software Engineer at Granicus.
 
-  <b> Actively looking for Summer 2022 Software Internship opportunities </b>
+  <b> Actively looking for Summer 2022 Software Internship opportunities in USA </b>
 
   
 
 <h2>💻 I'm Currently Learning</h2>
 
-- [Next.js]: https://nextjs.org/
-
-- [GraphQL]: https://graphql.org/
-
-- [Golang]: https://golang.org/
+- Next.js
+- GraphQL
+- Golang
+- React Native
 
 <h2>Currently working:</h2>
 
