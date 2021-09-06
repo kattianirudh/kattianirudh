@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2>Hey! 👋</h2>
 
-I'm **Anirudh Katti **
+I'm <b> Anirudh Katti </b>
 - <i>Currently:</i> MS CS Student at University of Texas at Arlington. 
 
 - <i>Previously:</i> Software Engineer at Granicus.
